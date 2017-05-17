@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "dependencies": {
+    "express": "3.2.4"
+  },
+  "version": "1.0.0",
+  "description": "First Json Package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Herman F",
+  "license": "ISC"
+}
